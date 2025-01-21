@@ -1,6 +1,8 @@
 # QuizApp | SwiftUI  Project
 
 ## Overview
+QuizApp is an engaging and interactive iOS application that allows users to take quizzes on various topics. Built using SwiftUI and Xcode, the app provides a seamless and visually appealing experience for users to test their knowledge, track scores, and challenge themselves with multiple-choice questions.
+
 This project is built using **SwiftUI** and **Xcode**, leveraging Apple's declarative UI framework for iOS, macOS, watchOS, and tvOS applications.
 
 ## Features
